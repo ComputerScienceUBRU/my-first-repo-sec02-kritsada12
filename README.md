@@ -1,5 +1,37 @@
-# my-first-repo-sec02-kritsada12
-my-first-repo-sec02-kritsada12 created by GitHub Classroom
-57122420228 
-kritsada phalarat
-hellow. my name kritsada phalarat sect02 57122420228
+# อาหารที่ชอบ
+ผัดไทย
+## รหัสนักศึกษา
+57122420228
+### ชื่อ นามสกุล
+นายกฤษดา พละราษฎร์
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
